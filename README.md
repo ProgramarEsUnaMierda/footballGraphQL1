@@ -2,7 +2,7 @@
 
 Ejemplo básico de llamadas graphQL bajo un endpoint en NODE
 
-#Llamadas
+## Llamadas
 
 En modo de ejemplo se pueden ejecutar llamadas con el GraphiQL con un navegador
 en en la URL http://localhost:4000/football
